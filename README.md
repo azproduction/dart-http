@@ -1,8 +1,6 @@
 Simple server setup
 ===================
 
-'''java
-
     #import('HttpServer.dart');
     
     main() {
@@ -14,5 +12,3 @@ Simple server setup
     
         print("accepting connections on ${server.host}:${server.port}");
     }
-
-'''
