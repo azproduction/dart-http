@@ -1,4 +1,8 @@
-'''(java)
+Simple server setup
+===================
+
+'''java
+
     #import('HttpServer.dart');
     
     main() {
@@ -10,4 +14,5 @@
     
         print("accepting connections on ${server.host}:${server.port}");
     }
+
 '''
