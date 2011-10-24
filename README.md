@@ -12,3 +12,8 @@ Simple server setup
     
         print("accepting connections on ${server.host}:${server.port}");
     }
+
+Complex Http Server
+===================
+
+http://code.google.com/p/dart/source/browse/branches/bleeding_edge/dart/samples/chat/http_impl.dart
